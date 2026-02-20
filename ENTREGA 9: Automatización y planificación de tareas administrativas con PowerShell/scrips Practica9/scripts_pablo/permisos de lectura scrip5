@@ -1,0 +1,1 @@
+New-SmbShare -Name "ResultadoScripts" -Path "C:\ResultadoScripts" -ReadAccess "Everyone"
